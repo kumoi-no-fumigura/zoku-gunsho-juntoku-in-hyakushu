@@ -196,6 +196,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 16,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-juntoku-in-hyakushu",
   "work": "順徳院御百首",
